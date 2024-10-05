@@ -22,6 +22,6 @@ I'm a fan of strategy games, I'm fascinated by AI and I love teaching. So I put 
 
 Course Teaser: `https://github.com/SeanAriel/belote-mlops-course-teaser`
 
-Free Lectures: `https://youtu.be/bwNczwP7rFk?si=52b2oCzKl6bmGZnM`
+Free Lectures: [LousyGambler](https://youtu.be/bwNczwP7rFk?si=52b2oCzKl6bmGZnM)
 
-Full Course: `https://shorturl.at/bcgxY`    
+Full Course: [Hands-On MLOps & ML Engineering](https://www.udemy.com/course/hands-on-mle-mlops/?referralCode=B1A01E99FD1F0A5D3349)    
